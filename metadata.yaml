@@ -1,4 +1,8 @@
 _repo: The-Roman-Poets-of-the-Republic-2nd-edition_48323
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48323-h/images/cover.jpg
 creator:
   author:
     agent_name: Sellar, W. Y. (William Young)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '36826'
     url: http://www.gutenberg.org/2009/agents/36826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48323#The-Roman-Poets-of-the-Republic-2nd-edition
 gutenberg_issued: '2015-02-20'
 gutenberg_type: Text
 identifiers:
